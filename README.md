@@ -25,4 +25,4 @@ I combine analytical problem-solving with a hands-on approach to modern framewor
 ###  Connect With Me
 
 *    [Connect on LinkedIn](https://www.linkedin.com/in/sumayya-islam-2b91a0384)
-*    [Send an Email](i.sumayyaislam@gmail.com)
+*    [Send an Email](mailto:i.sumayyaislam@gmail.com)
