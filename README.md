@@ -1,4 +1,4 @@
-# Hi, I'm Sumayya Islam! 👋 
+# Hi, I'm Sumayya Islam! 
 ### Aspiring Software Engineer & AI Enthusiast
 
 An ambitious Information and Technology student with a strong foundation in computer architecture, full-stack software development, and local AI implementations. Deeply passionate about building data-driven applications, developing intelligent computer vision pipelines, and solving complex architectural challenges. 
